@@ -1,7 +1,8 @@
 # README
 
 the code is trash and i'm not proud of it but it works
-made it in 20mins
+made it in 20mins  
+install ffmpeg before running 
 
 # screenshot 
 ![image](https://github.com/user-attachments/assets/cb63b51c-448a-4703-aef4-cea5926eb574)
